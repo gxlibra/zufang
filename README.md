@@ -5,7 +5,7 @@ _使用 Python 脚本爬取某租房网站的房源信息，利用高德在地�
 通过实验楼课程学习完成此项目 [链接](https://www.shiyanlou.com/courses/599)
 
 ## 环境
-* Windows/Linux\
+* Windows/Linux
 * Python 3.7
 ## 依赖
 * BeautifulSoup
